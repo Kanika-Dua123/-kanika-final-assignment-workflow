@@ -2,4 +2,4 @@
 
 # ami = "ami-0dfcb1ef8550277af"
 
-bucket_name = "test_bucket"
+bucket_name = "kanika-bucket"
