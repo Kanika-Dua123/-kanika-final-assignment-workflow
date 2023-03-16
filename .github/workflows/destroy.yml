@@ -1,9 +1,9 @@
-name: h-destroy
+name: k-destroy
 
 on:
   workflow_dispatch:
 env:
-  BUCKET: teststorage1983
+  BUCKET: kanika-1
   TFSTATE_FILE: S3.tfstate
   aws_region: ap-south-1
 
